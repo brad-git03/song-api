@@ -1,6 +1,6 @@
 # VCS
 .git
-.gitignore
+../.gitignore
 
 # Build output / caches
 target/
